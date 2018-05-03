@@ -1,5 +1,6 @@
 # SPL06-SDM845-driver
-Qualcomm Incorporated SDM845-SSC-SEE--goertek-pressure-sensor-SPL06-driver
+
+Goertek barometer sensor SPL06 driver for Qualcomm SDM845 platform with Android OS 8.0--SSC-SEE.
 
 Step1.Register the driver with the SEE framework.
 
